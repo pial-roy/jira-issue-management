@@ -1,0 +1,4 @@
+JIRA_API_URL=https://pp.net/
+JIRA_API_TOKEN="780987"
+JIRA_EMAIL=ex@ex
+JIRA_PROJECT_NAME="ee"
